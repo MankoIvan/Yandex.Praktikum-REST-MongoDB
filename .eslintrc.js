@@ -17,7 +17,6 @@ module.exports = {
         "sourceType": "module"
     },
     "plugins": [
-        "vue"
     ],
     "rules": {
       "semi": ["error", "always"],

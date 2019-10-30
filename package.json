@@ -1,7 +1,7 @@
 {
   "name": "Yandex.Praktikum-REST-MongoDB",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend course project for creating your own server for the 'Mesto' project",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
